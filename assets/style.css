@@ -1,0 +1,53 @@
+@import url(https://www.overheid.nl/themes/custom/koop_overheid/css/koop_overheid.css);
+
+/* @charset "UTF-8";
+@font-face {
+  font-family: "Rijksoverheid Sans";
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextregular.eot");
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextregular.eot?#iefix") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextregular.ttf") format("truetype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextregular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Rijksoverheid Sans";
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextitalic.eot");
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextitalic.eot?#iefix") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextitalic.ttf") format("truetype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextitalic.woff") format("woff");
+  font-style: italic;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Rijksoverheid Sans";
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextbold.eot");
+  src: https://componenten-koop.overheid.nl/fonts/ROsanswebtextbold.eot?#iefix") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextbold.ttf") format("truetype"), https://componenten-koop.overheid.nl/fonts/ROsanswebtextbold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Rijksoverheid Serif";
+  src: https://componenten-koop.overheid.nl/fonts/ROserifwebregular.eot?") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROserifwebregular.woff") format("opentype");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Rijksoverheid Serif";
+  src: https://componenten-koop.overheid.nl/fonts/ROserifwebitalic.eot?") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROserifwebitalic.woff") format("opentype");
+  font-style: italic;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Rijksoverheid Serif";
+  src: https://componenten-koop.overheid.nl/fonts/ROserifwebbold.eot?") format("embedded-opentype"), https://componenten-koop.overheid.nl/fonts/ROserifwebbold.woff") format("opentype");
+  font-weight: bold;
+  font-style: normal; }
+
+html {
+  background-color: #fff;
+  box-sizing: border-box;
+  color: #333;
+  font-family: "Rijksoverheid Sans", sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  position: relative;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased; }
+} */

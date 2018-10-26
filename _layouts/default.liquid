@@ -1,0 +1,17 @@
+---
+layout: wrapper
+---
+
+<div class="container columns columns--sidebar-right row">
+  <div>
+    <article class="markdown-body">
+      {{content}}
+    </article>
+  </div>
+  <div>
+    {% if page.toc != false and site.toc == true or page.toc == true %}
+      {% include toc.liquid html=content h_min=2 sanitize=true class="table-of-contents" %}
+    {% endif %}
+  </div>
+</div>
+
