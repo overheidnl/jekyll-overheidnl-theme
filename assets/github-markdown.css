@@ -555,7 +555,7 @@
   overflow: auto;
 }
 
-.markdown-body table th {
+/* .markdown-body table th {
   font-weight: 600;
 }
 
@@ -572,7 +572,7 @@
 
 .markdown-body table tr:nth-child(2n) {
   background-color: #f6f8fa;
-}
+} */
 
 .markdown-body img {
   max-width: 100%;
